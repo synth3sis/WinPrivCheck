@@ -3,9 +3,6 @@ TITLE Win-P-Check - Windows local Privilege Escalation Check Script
 COLOR 0F
 CALL :SetOnce
 
-REM :: WinPEAS - Windows local Privilege Escalation Awesome Script
-REM :: Code by carlospolop; Re-Write by ThisLimn0
-
 REM Registry scan of other drives besides 
 REM /////true or false
 SET long=false
